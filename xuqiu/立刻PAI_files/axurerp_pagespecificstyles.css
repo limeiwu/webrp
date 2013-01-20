@@ -1,0 +1,884 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:1061px;
+    top:98px;
+    width:139px;
+    height:35px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Heiti SC';
+    font-size: 20px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u1 {
+    position:absolute;
+    left:1281px;
+    top:90px;
+    width:80px;
+    height:43px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:1397px;
+    top:99px;
+    width:47px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:213px;
+    top:98px;
+    width:192px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:405px;
+    top:98px;
+    width:656px;
+    height:35px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u5 {
+    position:absolute;
+    left:280px;
+    top:102px;
+    width:125px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../立刻PAI_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:1397px;
+    top:90px;
+    width:41px;
+    height:35px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:41px;
+    height:35px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../立刻PAI_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:400px;
+    top:248px;
+    width:200px;
+    height:300px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:200px;
+    height:300px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:142px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:214px;
+    top:130px;
+    width:185px;
+    height:181px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u11 {
+    position:absolute;
+    left:213px;
+    top:330px;
+    width:187px;
+    height:27px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u12 {
+    position:absolute;
+    left:213px;
+    top:377px;
+    width:187px;
+    height:555px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u13 {
+    position:absolute;
+    left:234px;
+    top:399px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u14 {
+    position:absolute;
+    left:418px;
+    top:159px;
+    width:445px;
+    height:37px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:863px;
+    top:170px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_line {
+    background-image: url('../立刻PAI_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:800px;
+    height:3px;
+}
+
+.u16 {
+    position:absolute;
+    left:404px;
+    top:244px;
+    width:800px;
+    height:10px;
+    
+}
+
+.u17 {
+    position:absolute;
+    left:601px;
+    top:223px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#008000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u18 {
+    position:absolute;
+    left:427px;
+    top:223px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Heiti SC';
+    font-size: 16px;
+    color:#FF6600;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u19 {
+    position:absolute;
+    left:800px;
+    top:223px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Heiti SC';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u20 {
+    position:absolute;
+    left:1204px;
+    top:133px;
+    width:296px;
+    height:117px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 28px;
+    color:#FF0033;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:1204px;
+    top:271px;
+    width:296px;
+    height:117px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 28px;
+    color:#FF0033;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:1204px;
+    top:407px;
+    width:296px;
+    height:117px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 28px;
+    color:#FF0033;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u23 {
+    position:absolute;
+    left:1204px;
+    top:542px;
+    width:296px;
+    height:117px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 28px;
+    color:#FF0033;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u24 {
+    position:absolute;
+    left:1204px;
+    top:678px;
+    width:296px;
+    height:117px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 28px;
+    color:#FF0033;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u25 {
+    position:absolute;
+    left:1204px;
+    top:815px;
+    width:296px;
+    height:117px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 28px;
+    color:#FF0033;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u26 {
+    position:absolute;
+    left:650px;
+    top:450px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_line {
+    background-image: url('../立刻PAI_files/u27_line.png');
+}
+
+.u27_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:999px;
+    height:3px;
+}
+
+.u27 {
+    position:absolute;
+    left:196px;
+    top:77px;
+    width:999px;
+    height:10px;
+    
+}
+
+.u28 {
+    position:absolute;
+    left:1099px;
+    top:32px;
+    width:96px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:312px;
+    top:54px;
+    width:86px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:440px;
+    top:54px;
+    width:74px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:565px;
+    top:55px;
+    width:48px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:667px;
+    top:64px;
+    width:55px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:755px;
+    top:64px;
+    width:27px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../立刻PAI_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:1160px;
+    top:0px;
+    width:35px;
+    height:53px;
+}
+
+#u40_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:35px;
+    height:53px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../立刻PAI_files/u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:196px;
+    top:79px;
+    width:999px;
+    height:4px;
+}
+
+#u42_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:999px;
+    height:4px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:995px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../立刻PAI_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:312px;
+    top:54px;
+    width:89px;
+    height:25px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:31px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:85px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../立刻PAI_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:440px;
+    top:54px;
+    width:80px;
+    height:25px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:31px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:76px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../立刻PAI_files/u46_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:565px;
+    top:54px;
+    width:80px;
+    height:25px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:31px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:76px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_line {
+    background-image: url('../立刻PAI_files/u50_line.png');
+}
+
+.u50_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:1946px;
+}
+
+.u50 {
+    position:absolute;
+    left:190px;
+    top:83px;
+    width:10px;
+    height:1946px;
+    
+}
+
+.u51_line {
+    background-image: url('../立刻PAI_files/u51_line.png');
+}
+
+.u51_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:1950px;
+}
+
+.u51 {
+    position:absolute;
+    left:1190px;
+    top:79px;
+    width:10px;
+    height:1950px;
+    
+}
+
+.u52_normal {
+    background-image: url('../立刻PAI_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:824px;
+    top:0px;
+    width:215px;
+    height:77px;
+}
+
+#u52_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:215px;
+    height:77px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:211px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:1008px;
+    top:-2px;
+    width:88px;
+    height:67px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../立刻PAI_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:241px;
+    top:0px;
+    width:46px;
+    height:85px;
+}
+
+#u55_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:46px;
+    height:85px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
